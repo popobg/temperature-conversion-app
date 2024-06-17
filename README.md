@@ -25,4 +25,4 @@ You can also navigates through the fields with Tab and the keyboard arrows.
 The window and most of the widgets in the script are customtkinter objects.
 - **Pillow** (PIL fork, Python Imaging Library) is used to manage images.
 
-If you don't have Python installed, you can download the executable of the application in the [release]().
+If you don't have Python installed, you can download the executable of the application in the [release](https://github.com/popobg/temperature-conversion-app/releases/tag/v1.0).
